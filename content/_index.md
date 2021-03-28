@@ -1,5 +1,5 @@
 ---
-title: MOHE
+title: Гоооо
 description: Welcome to this sample project
 images:
   - /images/sample.jpg
