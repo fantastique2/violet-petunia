@@ -1,7 +1,8 @@
 ---
-title: HOME
+title: MOHE
 description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+images:
+  - /images/sample.jpg
 ---
 
 Hey,
